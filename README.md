@@ -9,3 +9,6 @@ BeautifulSoup for web scraping. It will scrape the required data from the World-
 information received.
 
 You can also click the "Refresh" button to refresh the data. This will send another request to the server to scrape and return new, updated data.
+
+## About me
+I'm a freelance developer. Wanna see more of my work? See my website here: https://www.hassandev.me
